@@ -6,7 +6,7 @@ Aprendí e implementé Doctrine como leí en la documentación de su sitio web. 
 
 ## La aplicación
 
-Desarrollé una aplicación para la plataforma de Facebook llamada "El comentario de oro". El jugador entra cada semana y rellena la quiniela (Entidad <strong>Pronostico</strong>). También -y esto es lo importante- puede escribir comentarios que serán puntuados por otros jugadores. Así se generam varios rankings en base a las puntuaciones por comentarios y puntuaciones por pronósticos acertados.
+Desarrollé una aplicación para la plataforma de Facebook llamada "El comentario de oro". El jugador entra cada semana y rellena la quiniela (Entidad <strong>Pronostico</strong>). También -y esto es lo importante- puede escribir comentarios que serán puntuados por otros jugadores. Así se generan varios rankings en base a las puntuaciones por comentarios y puntuaciones por pronósticos acertados.
 
 ## Uso de Doctrine
 
